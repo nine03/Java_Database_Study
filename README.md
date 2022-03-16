@@ -1,5 +1,5 @@
 
-## Java_Database Study
+## Java_Database_Study
 
 ![38f1f7373aaaf4c807da51eb129e815](https://user-images.githubusercontent.com/60682087/150037337-1d41773d-81d1-4b41-b9a3-c0dc4683bb50.png)
 
